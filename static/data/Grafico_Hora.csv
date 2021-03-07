@@ -1,0 +1,537 @@
+source,target,value,tag
+CypherPotato,Maniero,2,.net
+Vinicius Brasil,Maniero,13,.net
+César Alves,Comunidade,12,android
+danielsmith,Comunidade,180,android
+felipe.rce,Comunidade,15,android
+Guilherme,Comunidade,2,android
+War Lock,Comunidade,66,android
+Henrique Mendes,Leonardo Dias,0,android
+Boneco Sinforoso,ramaral,10,android
+danielsmith,ramaral,143,android
+Edson Santos,ramaral,19,android
+Éowyn,ramaral,6,android
+Henrique Mendes,ramaral,12,android
+Mateus Carvalho,ramaral,12,android
+Thiago Luiz Domacoski,ramaral,6,android
+Tiago Coelho,ramaral,2,android
+viana,ramaral,4,android
+Vitor Mendanha,ramaral,105,android
+Guilherme,rsicarelli,174,android
+Thiago Luiz Domacoski,Thiago Luiz Domacoski,33,android
+Henrique Mendes,viana,4,android
+Paiva,viana,3,android
+veroneseComS,Eduardo Vargas,5,angular
+wladyband,Eduardo Vargas,39,angular
+Wallace Maxters,Comunidade,1,angularjs
+GustavoSevero,OnoSendai,0,angularjs
+Mariana,Barbetta,9,asp.net-mvc
+Harry,Harry,17,asp.net-mvc
+AndreeH,Leonel Sanches da Silva,254,asp.net-mvc
+Érik Thiago,Leonel Sanches da Silva,1,asp.net-mvc
+Harry,Leonel Sanches da Silva,5,asp.net-mvc
+Rafael Barbosa,Leonel Sanches da Silva,54,asp.net-mvc
+Randrade,Leonel Sanches da Silva,1,asp.net-mvc
+Ryan Santos,Leonel Sanches da Silva,12,asp.net-mvc
+Master JR,Victor Laio,20,asp.net-mvc
+Rod,Comunidade,3,asp.net-mvc-5
+pnet,Leonel Sanches da Silva,0,asp.net-mvc-6
+Randrade,Leonel Sanches da Silva,13,asp.net-mvc-7
+Rod,Leonel Sanches da Silva,96,asp.net-mvc-8
+pnet,Miguel Angelo,1,asp.net-mvc-9
+Maniero,Comunidade,0,c
+André,Lucas Trigueiro,4,c
+Alex,Maniero,1,c
+André,Maniero,0,c
+Fábio Morais,Maniero,1,c
+gato,Maniero,0,c
+jlHertel,Maniero,6,c
+Leonardo,Maniero,0,c
+rafael marques,Maniero,1,c
+RafNP,Maniero,1,c
+Vinicius,Maniero,0,c
+Vitor Gonçalves,Maniero,0,c
+Vitor Matos,Maniero,3,c
+Gabriel Vinicius,pmg,3,c
+José Cunha,pmg,11,c
+Leonardo,pmg,7,c
+flavio,Victor Stafusa,1,c
+rafael marques,Victor Stafusa,1,c
+Amadeu Antunes,Amadeu Antunes,716,c#
+CesarMiguel,CesarMiguel,1,c#
+pnet,CesarMiguel,0,c#
+Dorathoto,Comunidade,5,c#
+Emerson,Comunidade,5,c#
+Érik Thiago,Comunidade,11,c#
+gato,Comunidade,16,c#
+Jedaias Rodrigues,Comunidade,11,c#
+Jonathan Barcela,Comunidade,1,c#
+Leonardo,Comunidade,152,c#
+Marconi,Comunidade,1,c#
+Matheus Saraiva,Comunidade,6,c#
+pnet,Comunidade,2,c#
+Robss70,Comunidade,8,c#
+Thomas Erich Pimentel,Comunidade,1,c#
+Vinícius,Comunidade,103,c#
+Vinicius Brasil,Comunidade,8,c#
+Ricardo,dcastro,3,c#
+pnet,Diego Rafael Souza,9,c#
+pnet,Gabriel Coletta,5,c#
+hard123,George Wurthmann,1,c#
+pnet,George Wurthmann,3,c#
+hard123,hard123,85,c#
+Marlon Pereira,João Martins,0,c#
+pnet,João Martins,6,c#
+Matheus Miranda,Leandro Angelo,3,c#
+Aesir,Leonel Sanches da Silva,1,c#
+Alan Almeida,Leonel Sanches da Silva,4,c#
+Alexandre Previatti,Leonel Sanches da Silva,0,c#
+allan.egidio,Leonel Sanches da Silva,7,c#
+Diego Zanardo,Leonel Sanches da Silva,7,c#
+Dorathoto,Leonel Sanches da Silva,122,c#
+Edmar Munhoz,Leonel Sanches da Silva,2,c#
+Érik Thiago,Leonel Sanches da Silva,3,c#
+Fabio Souza,Leonel Sanches da Silva,1,c#
+Furlan,Leonel Sanches da Silva,0,c#
+Guilherme Ferreira,Leonel Sanches da Silva,0,c#
+Harry,Leonel Sanches da Silva,282,c#
+Igor Macedo,Leonel Sanches da Silva,1,c#
+ihavenokia,Leonel Sanches da Silva,289,c#
+JamesTK,Leonel Sanches da Silva,19,c#
+Jedaias Rodrigues,Leonel Sanches da Silva,1,c#
+Joao Paulo,Leonel Sanches da Silva,31,c#
+Kelly Soares,Leonel Sanches da Silva,8,c#
+LINQ,Leonel Sanches da Silva,2,c#
+Luiz Negrini,Leonel Sanches da Silva,3,c#
+Matheus Miranda,Leonel Sanches da Silva,17,c#
+Matheus Silva,Leonel Sanches da Silva,1,c#
+Novato,Leonel Sanches da Silva,11,c#
+Pablo Tondolo de Vargas,Leonel Sanches da Silva,17,c#
+pnet,Leonel Sanches da Silva,53,c#
+Rafael Barbosa,Leonel Sanches da Silva,1,c#
+Randrade,Leonel Sanches da Silva,1,c#
+Renan Carlos,Leonel Sanches da Silva,2,c#
+Ricardo,Leonel Sanches da Silva,2,c#
+Rod,Leonel Sanches da Silva,11,c#
+Ryan Santos,Leonel Sanches da Silva,5,c#
+Simão Lopes,Leonel Sanches da Silva,311,c#
+Vinícius,Leonel Sanches da Silva,98,c#
+Guilherme Padovam,LINQ,8,c#
+Italo Rodrigo,LINQ,0,c#
+Jedaias Rodrigues,LINQ,0,c#
+Junior Guerreiro,LINQ,0,c#
+Leonardo Bonetti,LINQ,0,c#
+Marco Souza,LINQ,0,c#
+pnet,LINQ,0,c#
+Renan Carlos,LINQ,1,c#
+Thomas Erich Pimentel,LINQ,2,c#
+Tozzi,LINQ,0,c#
+Wallace Maxters,LINQ,0,c#
+Amadeu Antunes,Maniero,1,c#
+AndreeH,Maniero,1,c#
+Ayo,Maniero,0,c#
+Caique C.,Maniero,1,c#
+Carlos A.,Maniero,0,c#
+CypherPotato,Maniero,48,c#
+DanOver,Maniero,4,c#
+Dorathoto,Maniero,0,c#
+enzo,Maniero,3,c#
+Fox.11,Maniero,0,c#
+Francisco,Maniero,10,c#
+FRNathan13,Maniero,2,c#
+gato,Maniero,1,c#
+Harry,Maniero,0,c#
+henriquedpereira,Maniero,0,c#
+HeyJoe,Maniero,2,c#
+Ícaro Dantas,Maniero,1,c#
+Italo Rodrigo,Maniero,0,c#
+Jedaias Rodrigues,Maniero,0,c#
+LeandroLuk,Maniero,0,c#
+Leonardo,Maniero,2,c#
+Leonardo Bonetti,Maniero,0,c#
+LINQ,Maniero,0,c#
+Lucas,Maniero,2,c#
+Marcell Alves,Maniero,0,c#
+Marco Souza,Maniero,35,c#
+Matheus Miranda,Maniero,1,c#
+Matheus Saraiva,Maniero,1,c#
+Mauricio Ferraz,Maniero,0,c#
+MeuChapeu,Maniero,1,c#
+Nicola Bogar,Maniero,20,c#
+nmindz,Maniero,0,c#
+pnet,Maniero,1,c#
+Rafael Alexandre,Maniero,1,c#
+Randrade,Maniero,0,c#
+Rod,Maniero,0,c#
+rubStackOverflow,Maniero,1,c#
+SomeDeveloper,Maniero,121,c#
+sYsTeM,Maniero,0,c#
+Thomas Erich Pimentel,Maniero,2,c#
+Vinícius,Maniero,72,c#
+Vinicius Brasil,Maniero,1,c#
+Vinícius Lima,Maniero,87,c#
+Wallace Maxters,Maniero,0,c#
+Marco Souza,Marco Souza,73,c#
+Mariana,Mariana,35,c#
+Matheus Miranda,Matheus Miranda,43,c#
+Dorathoto,Miguel Angelo,5,c#
+Laerte,Miguel Angelo,1,c#
+Fabio Souza,novic,1,c#
+Mariana,novic,15,c#
+Matheus Miranda,novic,3,c#
+pnet,novic,2,c#
+pnet,Renan,4,c#
+Junior Guerreiro,Rovann Linhalis,1,c#
+Matheus Miranda,Rovann Linhalis,1,c#
+pnet,Rovann Linhalis,1,c#
+WSS,Rovann Linhalis,0,c#
+Thomas Erich Pimentel,Thomas Erich Pimentel,4,c#
+Marco Souza,Tobias Mesquita,21,c#
+pnet,Tobias Mesquita,5,c#
+War Lock,Tobias Mesquita,4,c#
+Matheus Miranda,Vinicius Brasil,0,c#
+cYeR,Maniero,10,c++
+Gabriel Sales,Maniero,1,c++
+L.Hora,Maniero,38,c++
+Rodolfo,Maniero,1,c++
+Felipe Goulart,Comunidade,1,css
+Carlos Rocha,hugocsl,2,css
+Fox.11,hugocsl,5,css
+Guilherme Rigotti,hugocsl,2,css
+Ivan Ferrer,hugocsl,5,css
+Sam,hugocsl,5,css
+hugocsl,Sam,3,css
+Regis Santos,Comunidade,3,django
+Regis Santos,Paulo,17,django
+Leo,Comunidade,7,excel
+denis,Matheus Ribeiro,15,flutter
+rubStackOverflow,Matheus Ribeiro,46,flutter
+Wallace Maxters,Comunidade,36,git
+hugocsl,Comunidade,20,html
+Ricardo,Comunidade,30,html
+Wallace Maxters,Comunidade,0,html
+Wallace Maxters,Guilherme Nascimento,0,html
+Afonso,hugocsl,1,html
+Bruno,hugocsl,11,html
+David Mv,hugocsl,1,html
+Elienay Junior,hugocsl,1,html
+Felipe,hugocsl,2,html
+Master JR,hugocsl,4,html
+rbz,hugocsl,1,html
+veroneseComS,hugocsl,1,html
+Henrique,Sam,1,html
+hugocsl,Sam,20,html
+hugocsl,Woss,0,html
+Felipe Henrique,hugocsl,9,html
+Pilati,hugocsl,0,html5
+Tiago Amaral,Comunidade,22,ios
+Augusto Furlan,Paulo Rodrigues,13,ios
+Gian,Paulo Rodrigues,3,ios
+Tiago Amaral,Paulo Rodrigues,8,ios
+Aline,Comunidade,3,java
+Daniela Morais,Comunidade,23,java
+DiegoAugusto,Comunidade,154,java
+Emerson Barcellos,Comunidade,16,java
+Geison Santos,Comunidade,24,java
+Jose Vieira Neto,Comunidade,2,java
+Pacíficão,Comunidade,5,java
+Pena Pintada,Comunidade,2,java
+Piovezan,Comunidade,35,java
+Renan Gomes,Comunidade,8,java
+Rodolfo,Comunidade,2.104,java
+rrr,Comunidade,3,java
+Skywalker,Comunidade,5,java
+Vinicius,Comunidade,9,java
+boltJu,hkotsubo,7,java
+Felipe,Jonathan CR,125,java
+Hugo Machado,jsantos1991,86,java
+Aline,Maniero,1,java
+Duds,Maniero,1,java
+Eduardo Mior,Maniero,4,java
+find83,Maniero,3,java
+renanvm,Maniero,1,java
+viana,Maniero,0,java
+Aline,ramaral,7,java
+Rafael Silva,ramaral,4,java
+rbz,ramaral,1,java
+Rodolfo,ramaral,43,java
+viana,ramaral,6,java
+Aline,viana,1,java
+Boneco Sinforoso,viana,4,java
+Henrique Mendes,viana,1,java
+Júnior,viana,1,java
+Wallace Roberto,viana,4,java
+Roknauta,Victor Stafusa,0,java
+wladyband,wladyband,26,java
+Joao Paulo,bfavaretto,0,javascript
+Vinícius Lara,bfavaretto,0,javascript
+Wallace Maxters,bfavaretto,7,javascript
+Hugo Borges,BrTkCa,0,javascript
+LeonardoEbert,BrTkCa,0,javascript
+akm,Comunidade,0,javascript
+Alan PS,Comunidade,51,javascript
+Alexandre Lopes,Comunidade,4,javascript
+Alisson Acioli,Comunidade,0,javascript
+Diego Henrique,Comunidade,39,javascript
+Elaine,Comunidade,2,javascript
+Fabio Henrique,Comunidade,1,javascript
+Gabriel Rodrigues,Comunidade,184,javascript
+Guilherme Lautert,Comunidade,41,javascript
+Iago Bruno,Comunidade,1,javascript
+Ivan Ferrer,Comunidade,26,javascript
+Jedaias Rodrigues,Comunidade,32,javascript
+Joao Paulo,Comunidade,123,javascript
+mgibsonbr,Comunidade,36,javascript
+Renan Rodrigues,Comunidade,0,javascript
+ropbla9,Comunidade,5,javascript
+Sam,Comunidade,2,javascript
+Samir Braga,Comunidade,1,javascript
+Silvio Andorinha,Comunidade,309,javascript
+SomeDeveloper,Comunidade,351,javascript
+Thiago,Comunidade,37,javascript
+Vinícius Lara,Comunidade,7,javascript
+Wallace Maxters,Comunidade,9,javascript
+Zignd,Comunidade,31,javascript
+Wallace Maxters,Guilherme Nascimento,2,javascript
+Luiz Felipe,hkotsubo,407,javascript
+Sam,Isac,1,javascript
+veroneseComS,Luiz Felipe,158,javascript
+akm,Maniero,0,javascript
+durtto,Maniero,1,javascript
+Lucas de Carvalho,Maniero,0,javascript
+Wallace Maxters,Maniero,0,javascript
+Diego Henrique,Miguel,1,javascript
+Hugo Borges,Miguel,0,javascript
+Arthur74,Sam,5,javascript
+Bruno,Sam,21,javascript
+Carlos Rocha,Sam,19,javascript
+Diego Henrique,Sam,25,javascript
+John Quimera,Sam,103,javascript
+Mariana,Sam,2,javascript
+Master JR,Sam,7,javascript
+Thi100,Sam,0,javascript
+Thiago,Sam,1,javascript
+Tiago,Sam,5,javascript
+akm,Sergio,1,javascript
+Ale,Sergio,4,javascript
+Diego Henrique,Sergio,7,javascript
+Elaine,Sergio,2,javascript
+Fabio Henrique,Sergio,2,javascript
+Gabriel,Sergio,1,javascript
+Gleyson Silva,Sergio,3,javascript
+Gonçalo,Sergio,3,javascript
+Hugo Borges,Sergio,1,javascript
+Ivan Ferrer,Sergio,5,javascript
+Jackson,Sergio,0,javascript
+Joao Paulo,Sergio,0,javascript
+Jonathan,Sergio,11,javascript
+LeonardoEbert,Sergio,1,javascript
+Lucas de Carvalho,Sergio,0,javascript
+MagicHat,Sergio,12,javascript
+msm.oliveira,Sergio,0,javascript
+pc_oc,Sergio,0,javascript
+Rafael Augusto,Sergio,3,javascript
+Renan Rodrigues,Sergio,1,javascript
+ropbla9,Sergio,5,javascript
+Samir Braga,Sergio,3,javascript
+Sergio,Sergio,1,javascript
+Seu Madruga,Sergio,2,javascript
+Sora,Sergio,0,javascript
+Stan,Sergio,4,javascript
+Tiago,Sergio,6,javascript
+Vinícius Lara,Sergio,1,javascript
+waghcwb,Sergio,1,javascript
+Wallace Maxters,Sergio,0,javascript
+Hugo Machado,Tobias Mesquita,1,javascript
+pnet,Tobias Mesquita,1,javascript
+Carlos Rocha,Carlos Rocha,17,jquery
+Felipe Goulart,Comunidade,5,jquery
+Fox.11,Comunidade,6,jquery
+adventistapr,Sam,39,jquery
+Carlos Rocha,Sam,2,jquery
+Fox.11,Sam,1,jquery
+Rogério Pancini,Sam,6,jquery
+Sr. André Baill,Sam,1,jquery
+Wagner Martins Bodyboard,Sam,2,jquery
+Alan PS,Sergio,1,jquery
+Felipe Goulart,Sergio,2,jquery
+ivan veloso,Sergio,5,jquery
+Marcos Vinicius,Sergio,3,jquery
+Miguel,Sergio,2,jquery
+Sr. André Baill,Sergio,1,jquery
+Diego Vieira,novic,2,laravel
+Fábio Jânio,novic,5,laravel
+Felipe Paetzold,novic,0,laravel
+Wallace Maxters,Wallace Maxters,55,laravel
+Renan Rodrigues,novic,5,laravel-5
+akm,lhf,15,lua
+Gabriel Sales,lhf,8,lua
+akm,Maniero,0,lua
+Gabriel Sales,Maniero,1,lua
+Zuul,Comunidade,5,mysql
+Wallace Maxters,Maniero,0,mysql
+Duds,Maniero,0,orientação-a-objetos
+Piovezan,Maniero,20,orientação-a-objetos
+Alisson Acioli,Bacco,1,php
+Gonçalo,Bacco,4,php
+ivan veloso,Bacco,1,php
+Marcos Vinicius,Bacco,0,php
+Marcos Vinicius,bfavaretto,1,php
+Wallace Maxters,bfavaretto,9,php
+adventistapr,Comunidade,306,php
+akm,Comunidade,10,php
+Alisson Acioli,Comunidade,401,php
+Amanda Lima,Comunidade,202,php
+Calebe Oliveira,Comunidade,4,php
+ChrisAdler,Comunidade,87,php
+Diego Souza,Comunidade,8,php
+Fabio Henrique,Comunidade,136,php
+Filipe Moraes,Comunidade,27,php
+Fox.11,Comunidade,13,php
+gabriel,Comunidade,5,php
+Gonçalo,Comunidade,6,php
+Guilherme Nascimento,Comunidade,2,php
+GustavoSevero,Comunidade,13,php
+GWER,Comunidade,0,php
+Hugo Borges,Comunidade,1,php
+Inkeliz,Comunidade,6,php
+ivan veloso,Comunidade,6,php
+Jorge B.,Comunidade,285,php
+Leo Letto,Comunidade,26,php
+Leonardo,Comunidade,2,php
+Lucas Caresia,Comunidade,3,php
+Marcos Vinicius,Comunidade,174,php
+Miguel,Comunidade,5,php
+Paulo Costa,Comunidade,3,php
+pc_oc,Comunidade,389,php
+Pedro Quezado,Comunidade,8,php
+PululuK,Comunidade,1,php
+Rafael,Comunidade,1,php
+Renan Cavalieri,Comunidade,28,php
+Renan Rodrigues,Comunidade,5,php
+RFL,Comunidade,26,php
+Ricardo,Comunidade,26,php
+Thiago,Comunidade,24,php
+Vinícius Lara,Comunidade,86,php
+Vinícius Lima,Comunidade,1,php
+Wallace Maxters,Comunidade,37,php
+Leandro Marzullo,David Alves,0,php
+Wallace Maxters,gmsantos,58,php
+AnthraxisBR,Guilherme Nascimento,98,php
+Fox.11,Guilherme Nascimento,5,php
+Gonçalo,Guilherme Nascimento,0,php
+Hugo Borges,Guilherme Nascimento,0,php
+raphael,Guilherme Nascimento,509,php
+rbz,Guilherme Nascimento,2,php
+Striffer,Guilherme Nascimento,26,php
+Wallace Maxters,Guilherme Nascimento,15,php
+Coruja,Inkeliz,48,php
+Gonçalo,Inkeliz,18,php
+Leandro Marzullo,Inkeliz,2,php
+Marcos Vinicius,Inkeliz,1,php
+Ivan Ferrer,Ivan Ferrer,71,php
+veroneseComS,Julio Henrique,4,php
+Leonardo,Leonardo,4,php
+gustavox,Maniero,1,php
+Leonardo,Maniero,2,php
+Lucas de Carvalho,Maniero,2,php
+Marcos Vinicius,Maniero,0,php
+rbz,Maniero,1,php
+Ricardo,Maniero,1,php
+Vinícius Lara,Maniero,1,php
+Vinícius Lima,Maniero,19,php
+Wallace Maxters,Maniero,86,php
+Marcelo,Marcelo,16,php
+Gonçalo,Miguel,0,php
+Marcelo,novic,9,php
+Renan Rodrigues,novic,3,php
+Marcos Vinicius,Papa Charlie,6,php
+pc_oc,pc_oc,1,php
+adventistapr,rray,1,php
+Arsom Nolasco,rray,0,php
+Fabio Henrique,rray,18,php
+Fox.11,rray,0,php
+GustavoSevero,rray,0,php
+gustavox,rray,3,php
+Hugo Borges,rray,0,php
+Kevin Faccin,rray,0,php
+Leonardo Costa,rray,1,php
+Marcos Vinicius,rray,0,php
+Thiago,rray,0,php
+Tiago,rray,5,php
+Wallace Maxters,rray,0,php
+Bruno,Sam,13,php
+Gato de Schrödinger,Sam,1,php
+Marcos Vinicius,Sergio,1,php
+RFL,Sr. André Baill,1,php
+Lucas Caresia,stderr,1,php
+Diego Souza,Wallace Maxters,194,php
+Carlos Rocha,Woss,0,php
+Fox.11,Woss,1,php
+rbz,Woss,0,php
+Ed S,Comunidade,80,python
+Wallace Maxters,Comunidade,0,python
+Laurinda Souza,hkotsubo,12,python
+lucas,hkotsubo,2,python
+Luis Henrique,hkotsubo,3,python
+HelloWorld,jsbueno,10,python
+Matheus Saraiva,jsbueno,26,python
+Rogério Dec,jsbueno,14,python
+ThiagoO,jsbueno,18,python
+Wallace Maxters,jsbueno,6,python
+Woss,jsbueno,8,python
+Ed S,Leonel Sanches da Silva,17,python
+Wallace Maxters,Leonel Sanches da Silva,0,python
+Wallace Maxters,LINQ,0,python
+gato,Maniero,2,python
+Lucas Souza,Maniero,0,python
+Smaug,Maniero,0,python
+Wallace Maxters,Maniero,0,python
+Allan,Miguel,4,python
+Ed S,Miguel,9,python
+Ed S,stderr,29,python
+Henrique,stderr,5,python
+Wallace Maxters,stderr,3,python
+Wallace Maxters,Wallace Maxters,3,python
+Cadu,Woss,1,python
+Ed S,Woss,4,python
+Thiago Krempser,Woss,0,python
+ThiagoO,Woss,27,python
+nbro,Comunidade,192,python-3.x
+Henrique Pizarro,Daniel Falbel,5,r
+Jean,Daniel Falbel,7,r
+Linkman,Daniel Falbel,41,r
+Marcus Nunes,Daniel Falbel,8,r
+neves,Daniel Falbel,60,r
+Tomás Barcellos,Daniel Falbel,24,r
+Wagner Jorge,Daniel Falbel,8,r
+neves,hkotsubo,3,r
+Alexandre Sanches,Marcus Nunes,1,r
+Bruno Avila,Marcus Nunes,1,r
+Fillipe,Marcus Nunes,12,r
+fsbmat,Marcus Nunes,6,r
+Izak Mandrak,Marcus Nunes,113,r
+Laorie,Marcus Nunes,6,r
+Linkman,Marcus Nunes,1,r
+Márcio Mocellin,Marcus Nunes,3,r
+neves,Marcus Nunes,8,r
+Wagner Jorge,Molx,3,r
+Izak Mandrak,neves,2,r
+Flavio Silva,Rafael Cunha,1,r
+Luciano Hauschild,Rafael Cunha,1,r
+neves,Rafael Cunha,67,r
+Alexandre Sanches,Rui Barradas,2,r
+Breno G.,Rui Barradas,5,r
+Henrique Faria de Oliveira,Rui Barradas,8,r
+itamar,Rui Barradas,4,r
+Izak Mandrak,Rui Barradas,5,r
+Márcio Mocellin,Rui Barradas,28,r
+neves,Rui Barradas,6,r
+RxT,Rui Barradas,5,r
+Izak Mandrak,Tomás Barcellos,1,r
+neves,Tomás Barcellos,41,r
+neves,Willian Vieira,13,r
+RxT,Willian Vieira,1,r
+pnet,Ismael,1,sql
+Lucas Pedro,João Martins,47,vb.net
+Alexandre Lopes,Comunidade,97,wordpress

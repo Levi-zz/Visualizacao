@@ -1,0 +1,89 @@
+<!doctype html>
+
+<body>
+    <nav class="navbar navbar-expand-md navbar-light bg-light">
+        <a class="navbar-brand" href="{{ url_for('index')}}">Home</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" >
+        </button>
+        </nav>
+<title>Parallel Coordinates</title>
+<svg width="650" height="150"></svg>
+<div id="example" class="parcoords"></div>
+<div id="grid"></div>
+</body>
+<link rel="stylesheet" type="text/css" href="../static/css/style.css">
+<script type="text/javascript" src="http://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=Tcwpd_SfcDX56d3KGs2NB69m4GjLlGTzLXuwZl6MzkZmCar0Fb9L7uTG27GF3m1JQRFW7S6AbFnH8YcJCYGrc6wv75tTXZDZjlgFK8ihlYPqgCCeNbA0eARFuO4Mmy6CxqW0GihxKqnZolezbZOBpA" charset="UTF-8"></script><link rel="stylesheet" crossorigin="anonymous" href="http://gc.kis.v2.scr.kaspersky-labs.com/E3E8934C-235A-4B0E-825A-35A08381A191/abn/main.css?attr=aHR0cDovL2JsLm9ja3Mub3JnL2Vlc3VyL3Jhdy8xYTI1MTQ0NDAzNTFlYzIyZjE3Ni8xMTI2ZDA5ZWY0MTdiM2NlMzIwMzU2MTEwZjQ2MjNlNTkwMGVmY2QwLw"/><script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.4.13/d3.min.js"></script>
+<script src="../static/d3.parcoords.js"></script>
+<script src="../static/divgrid.js"></script>
+<script src = "https://cdnjs.cloudflare.com/ajax/libs/d3-legend/1.13.0/d3-legend.min.js"></script>
+
+<script id="brushing">// quantitative colour scale
+//.range(["#DAA520", "#FF0000", "#FFFF00",
+//      "#008000", "#A020F0","#000000", "#8B4513",
+ //     "#FF00FF", "#00FFFF", "#00FF00" ])
+
+
+var range_color = d3.scale.linear()
+  .domain([1,100, 200, 300, 400, 1000, 2000, 3000, 4000, 5000])
+  .range(['#fef0d9' , '#fdd49e' , '#fdbb84' ,'#fc8d59' ,
+			'#ef6548' ,'#d7301f' , '#990000' ])
+  .interpolate(d3.interpolateLab);
+
+var color = function(d) { return range_color(d['contagem']); };
+
+var parcoords = d3.parcoords()("#example")
+  .color(color)
+  .alpha(0.7);
+
+
+var svg = d3.select("svg");
+    // LINEAR
+    svg.append("g")
+        .attr("class", "legendV")
+        .attr("transform", "translate(20,50)");
+
+    var legendV = d3.legend.color()
+                              .shapeWidth(50)
+                              .cells(10)
+                              .title("Quantidade para Tags:")
+                              .labelFormat(d3.format('.0f'))
+                                .orient('horizontal')
+                            .cells(10)
+                              .scale(range_color);
+    svg.select(".legendV")
+        .call(legendV);
+
+// load csv file and create the chart
+d3.csv('../static/data/Paralelas_100_23_02.csv', function(data) {
+
+  parcoords
+    .data(data)
+      .color(color)
+    .render()
+      .brushMode("1D-axes");  // enable brushing
+
+
+  // create data table, row hover highlighting
+  var grid = d3.divgrid();
+  d3.select("#grid")
+    .datum(data.slice(0,20))
+    .call(grid)
+    .selectAll(".row")
+    .on({
+      "mouseover": function(d) { parcoords.highlight([d]) },
+      "mouseout": parcoords.unhighlight
+    });
+
+  // update data table on brush event
+  parcoords.on("brush", function(d) {
+    d3.select("#grid")
+      .datum(d.slice(0,20))
+      .call(grid)
+      .selectAll(".row")
+      .on({
+        "mouseover": function(d) { parcoords.highlight([d]) },
+        "mouseout": parcoords.unhighlight
+      });
+  });
+});
+</script>
