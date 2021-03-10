@@ -1,11 +1,44 @@
 <!doctype html>
+<style>
 
+* {
+    font-family:Verdana, Geneva, sans-serif;
+    font-size:12px;
+}
+
+ul {
+    margin: 0;
+    padding:0;
+}
+
+li {
+    list-style: none;
+    margin: 10px;
+    display: inline;
+}
+li a {
+    padding: 5px 10px;
+    margin:0;
+    border: 0px solid #f00;
+    background: #228B22;
+    text-decoration: none;
+    color:#FFF;
+    /* cantos arredondados */
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    border-radius:5px;
+}
+li a:hover {
+    background: #CCC;
+    color: #000;
+    border-color: #000;
+}
+</style>
 <body>
-    <nav class="navbar navbar-expand-md navbar-light bg-light">
-        <a class="navbar-brand" href="{{ url_for('index')}}">Home</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" >
-        </button>
-        </nav>
+<title>Force Directed Graph</title>
+<ul>
+    <li><a href="{{ url_for('index')}}">Home</a></li>
+    </ul>
 <title>Parallel Coordinates</title>
 <svg width="650" height="150"></svg>
 <div id="example" class="parcoords"></div>

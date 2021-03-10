@@ -3,6 +3,40 @@
 <script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=dKHoI77c8c4kUoOweLNC7VHRv8nfEExJT636cqDjdGu6ASRQ7kN75phGYScNYzzRaRvVjFdzNfJhUM9d7-FgLJ_ND2YPOdrhanAUqCLxLTuP2aIeyMchlud_4r3FjTQK3-iwlDeIIv4x4O5Mj54Qng" charset="UTF-8"></script><link rel="stylesheet" crossorigin="anonymous" href="https://gc.kis.v2.scr.kaspersky-labs.com/E3E8934C-235A-4B0E-825A-35A08381A191/abn/main.css?attr=aHR0cHM6Ly9ibC5vY2tzLm9yZy9kM25vb2IvcmF3LzgwNDM0MzQvODIxNWE0MTUwZGRkYmJlMThmZGRiYTdkM2MxZjYxMTc3ZGRhZGRiYS8"/><script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
 <style>
 
+* {
+    font-family:Verdana, Geneva, sans-serif;
+    font-size:12px;
+}
+
+ul {
+    margin: 0;
+    padding:0;
+}
+
+li {
+    list-style: none;
+    margin: 10px;
+    display: inline;
+}
+li a {
+    padding: 5px 10px;
+    margin:0;
+    border: 0px solid #f00;
+    background: #228B22;
+    text-decoration: none;
+    color:#FFF;
+    /* cantos arredondados */
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    border-radius:5px;
+}
+li a:hover {
+    background: #CCC;
+    color: #000;
+    border-color: #000;
+}
+
+
 path.link {
   fill: none;
   stroke: black;
@@ -56,11 +90,10 @@ div.tooltip {
 </style>
 <body>
 <title>Force Directed Graph</title>
-<nav class="navbar navbar-expand-md navbar-light bg-light">
-        <a class="navbar-brand" href="{{ url_for('index')}}">Home</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" >
-        </button>
-        </nav>
+<ul>
+    <li><a href="{{ url_for('index')}}">Home</a></li>
+    </ul>
+</body>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
 <script>
 
