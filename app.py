@@ -8,9 +8,9 @@ bootstrap = Bootstrap(app)
 def index():
     return render_template('index.html')
 
-@app.route("/wordcloud")
+@app.route("/cluster")
 def chart1():
-    return render_template('wordcloud.html')
+    return render_template('tsne_topics.html')
 
 @app.route("/graph_force")
 def chart2():
