@@ -35,7 +35,6 @@ li a:hover {
 }
 </style>
 <body>
-<title>Force Directed Graph</title>
 <ul>
     <li><a href="{{ url_for('index')}}">Home</a></li>
     </ul>
@@ -57,12 +56,12 @@ li a:hover {
 
 
 var range_color = d3.scale.linear()
-  .domain([1,100, 200, 300, 400, 1000, 2000, 3000, 4000, 5000])
+  .domain([1,500, 1000, 2000, 4000, 5000, 6000, 7000])
   .range(['#fef0d9' , '#fdd49e' , '#fdbb84' ,'#fc8d59' ,
 			'#ef6548' ,'#d7301f' , '#990000' ])
   .interpolate(d3.interpolateLab);
 
-var color = function(d) { return range_color(d['contagem']); };
+var color = function(d) { return range_color(d['respostas']); };
 
 var parcoords = d3.parcoords()("#example")
   .color(color)
@@ -78,7 +77,7 @@ var svg = d3.select("svg");
     var legendV = d3.legend.color()
                               .shapeWidth(50)
                               .cells(10)
-                              .title("Quantidade para Tags:")
+                              .title("Respostas")
                               .labelFormat(d3.format('.0f'))
                                 .orient('horizontal')
                             .cells(10)
@@ -99,7 +98,7 @@ d3.csv('../static/data/Paralelas_100_23_02.csv', function(data) {
   // create data table, row hover highlighting
   var grid = d3.divgrid();
   d3.select("#grid")
-    .datum(data.slice(0,20))
+    .datum(data.slice(0,15))
     .call(grid)
     .selectAll(".row")
     .on({
